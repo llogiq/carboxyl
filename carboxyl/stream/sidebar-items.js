@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Sink","An event sink."],["Stream","A stream of events."]]});
